@@ -1,0 +1,37 @@
+    * {
+        margin : 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body {
+        font-family: 'Poppins', sans-serif;
+        background-color: #5352ed;
+    }
+    .wrapper {
+        background-color: #ffff;
+        width: 25rem;
+        margin: auto;
+        padding: 20px;
+        border-radius: 10px;
+        margin-top: 5rem;
+    }
+    .wrapper h2 {
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    input {
+        width: 100%;
+        text-align: center;
+        height: 3em;
+        
+    }
+    .wrapper button {
+        font-family: 'Poppins', sans-serif;
+        margin-top: 14px;
+        border: none;
+        padding: 10px;
+        background-color: #5352ed;
+        color: white;
+        cursor: pointer;
+        width: 100%;
+    }
